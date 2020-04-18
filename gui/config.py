@@ -6,7 +6,7 @@ pygame.init()
 screen_width, screen_height = 600, 400
 screen = pygame.display.set_mode((screen_width, screen_height))
 clock = pygame.time.Clock()
-
+dfsfds
 ins_radius = 50
 ground_size = 600
 vision_size = (100, 200)
